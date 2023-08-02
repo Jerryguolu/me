@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Alice Wu 吳恩達
+title: Jerry 唐國璐
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Wu
+first_name: Guolu
+last_name: Tang
 
 # Status emoji
 status:
@@ -14,34 +14,33 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Master's Student in Clinical Medicine
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Guangzhou Medical University
+    url: https://www.gzhmu.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include lung cancer, molecular targeting treatment and virology.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Molecular biology of lung cancer
+  - Biomarkers in lung cancer
+  - Virology
+  - Respiratory disease
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: MSc in Clinical Medicine
+      institution: Guangzhou Medical University
+      year: Expected 2024
+    - course: BSc in Clinical Medicine
+      institution: Jiujiang University
+      year: 2020
+
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -53,19 +52,10 @@ social:
     link: '/#contact'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/Jerryxiaodou
     label: Follow me on Twitter
     display:
       header: true
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
@@ -74,11 +64,11 @@ social:
     link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+email: 'tangguolu@stu.gzhmu.edu.cn'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Hi! Thank you for visiting my page! I am Jerry, a graduate student majoring in Clinical Medicine at Guangzhou Medical University, dedicated to the molecular biology of lung cancer in hopes of discovering more effective treatments. I also have a profound interest in the biomarkers of lung cancer. Additionally, I delve into virology and respiratory diseases. Currently, I am a member of the State Key Laboratory of Respiratory Disease (SKLRD), where I work with my peers in a diversified team to explore and tackle complex challenges in respiratory diseases. I firmly believe in the power of scientific research, and I look forward to collaborating with more researchers to contribute to the cause of global health.
 {style="text-align: justify;"}

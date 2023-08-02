@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Guolu TANG</title>
-    <link>https://Jerryguolu.github.io/me/</link>
-      <atom:link href="https://Jerryguolu.github.io/me/index.xml" rel="self" type="application/rss+xml" />
-    <description>Guolu TANG</description>
+    <title>Guolu Tang</title>
+    <link>https://jerryguolu.github.io/me/</link>
+      <atom:link href="https://jerryguolu.github.io/me/index.xml" rel="self" type="application/rss+xml" />
+    <description>Guolu Tang</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://Jerryguolu.github.io/me/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
-      <title>Guolu TANG</title>
-      <link>https://Jerryguolu.github.io/me/</link>
+      <url>https://jerryguolu.github.io/me/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Guolu Tang</title>
+      <link>https://jerryguolu.github.io/me/</link>
     </image>
     
     <item>
       <title>The knob proteins of human adenovirus in species F elicit cross-neutralizing antibody responses</title>
-      <link>https://Jerryguolu.github.io/me/publication/preprint/</link>
+      <link>https://jerryguolu.github.io/me/publication/preprint/</link>
       <pubDate>Fri, 07 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>https://Jerryguolu.github.io/me/publication/preprint/</guid>
+      <guid>https://jerryguolu.github.io/me/publication/preprint/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
@@ -28,9 +28,9 @@
     
     <item>
       <title>Circular RNA: The Research Direction of future Virus Vaccines?</title>
-      <link>https://Jerryguolu.github.io/me/publication/my-second-publication/</link>
+      <link>https://jerryguolu.github.io/me/publication/my-second-publication/</link>
       <pubDate>Tue, 01 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>https://Jerryguolu.github.io/me/publication/my-second-publication/</guid>
+      <guid>https://jerryguolu.github.io/me/publication/my-second-publication/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -47,9 +47,9 @@
     
     <item>
       <title>Human coronaviruses: Origin, host and receptor</title>
-      <link>https://Jerryguolu.github.io/me/publication/journal-article/</link>
+      <link>https://jerryguolu.github.io/me/publication/journal-article/</link>
       <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>https://Jerryguolu.github.io/me/publication/journal-article/</guid>
+      <guid>https://jerryguolu.github.io/me/publication/journal-article/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -66,9 +66,9 @@
     
     <item>
       <title>Welcome to Wowchemy, the website builder for Hugo</title>
-      <link>https://Jerryguolu.github.io/me/post/getting-started/</link>
+      <link>https://jerryguolu.github.io/me/post/getting-started/</link>
       <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://Jerryguolu.github.io/me/post/getting-started/</guid>
+      <guid>https://jerryguolu.github.io/me/post/getting-started/</guid>
       <description>&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kn&#34;&gt;import&lt;/span&gt; &lt;span class=&#34;nn&#34;&gt;libr&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s1&#34;&gt;&amp;#39;hello&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
@@ -146,9 +146,9 @@
     
     <item>
       <title>Writing technical content in Markdown</title>
-      <link>https://Jerryguolu.github.io/me/post/writing-technical-content/</link>
+      <link>https://jerryguolu.github.io/me/post/writing-technical-content/</link>
       <pubDate>Fri, 12 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>https://Jerryguolu.github.io/me/post/writing-technical-content/</guid>
+      <guid>https://jerryguolu.github.io/me/post/writing-technical-content/</guid>
       <description>&lt;p&gt;Wowchemy is designed to give technical content creators a seamless experience. You can focus on the content and Wowchemy handles the rest.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Highlight your code snippets, take notes on math classes, and draw diagrams from textual representation.&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;On this page, you&amp;rsquo;ll find some examples of the types of technical content that can be rendered with Wowchemy.&lt;/p&gt;
@@ -248,7 +248,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-856129734&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-827461593&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -258,7 +258,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-856129734&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-827461593&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -540,9 +540,9 @@ Crash --&gt; [*]
     
     <item>
       <title>Display Jupyter Notebooks with Academic</title>
-      <link>https://Jerryguolu.github.io/me/post/jupyter/</link>
+      <link>https://jerryguolu.github.io/me/post/jupyter/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://Jerryguolu.github.io/me/post/jupyter/</guid>
+      <guid>https://jerryguolu.github.io/me/post/jupyter/</guid>
       <description>&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kn&#34;&gt;from&lt;/span&gt; &lt;span class=&#34;nn&#34;&gt;IPython.core.display&lt;/span&gt; &lt;span class=&#34;kn&#34;&gt;import&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;Image&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;Image&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s1&#34;&gt;&amp;#39;https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;
@@ -599,9 +599,9 @@ Crash --&gt; [*]
     
     <item>
       <title>An example conference paper</title>
-      <link>https://Jerryguolu.github.io/me/publication/conference-paper/</link>
+      <link>https://jerryguolu.github.io/me/publication/conference-paper/</link>
       <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>https://Jerryguolu.github.io/me/publication/conference-paper/</guid>
+      <guid>https://jerryguolu.github.io/me/publication/conference-paper/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -618,9 +618,9 @@ Crash --&gt; [*]
     
     <item>
       <title></title>
-      <link>https://Jerryguolu.github.io/me/admin/config.yml</link>
+      <link>https://jerryguolu.github.io/me/admin/config.yml</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://Jerryguolu.github.io/me/admin/config.yml</guid>
+      <guid>https://jerryguolu.github.io/me/admin/config.yml</guid>
       <description></description>
     </item>
     
