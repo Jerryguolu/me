@@ -11,7 +11,7 @@ authors:
 - Zhenwei Liu
 - Dehui Chen
 date: "2022 Nov"
-doi: "10.1016/j.jcv.2022.105246."
+# doi: "10.1016/j.jcv.2022.105246."
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2022-11-01T00:00:00Z"
@@ -69,13 +69,3 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: example
 ---
-
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
