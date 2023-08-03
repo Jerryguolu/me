@@ -5,6 +5,7 @@
 
 title: "Guolu Tang"
 baseURL: "https://Jerryguolu.github.io/me"
+publishDir: "docs"
 
 ############################
 ## LANGUAGE
