@@ -6,6 +6,8 @@
 title: "Guolu Tang"
 baseURL: "https://Jerryguolu.github.io/me"
 publishDir: "docs"
+sass:
+  sass_dir: assets/css
 
 ############################
 ## LANGUAGE
